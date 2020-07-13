@@ -5,14 +5,14 @@
   MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
-    original="Default.flskn"
+    original="HTML5 - Side Navigation.flskn"
     source-language="en-us"
     MadCap:file-filter=""
     datatype="x-flskn"
-    target-language="ar">
+    target-language="sl">
     <header>
       <skl><external-file
-          href="Default.flskn.skl" /></skl>
+          href="HTML5 - Side Navigation.flskn.skl" /></skl>
       <phase-group>
         <phase
           phase-name="translation"
@@ -45,10 +45,10 @@
     <body><trans-unit
         id="1"
         restype="x-skin_comment"
-        phase-name="pretrans"><source>This is the default skin</source><seg-source><mrk
+        phase-name="pretrans"><source>HTML5 Side Navigation skin</source><seg-source><mrk
             mtype="seg"
             mid="1"
-            comment="Comment">This is the default skin</mrk></seg-source><target
+            comment="Comment">HTML5 Side Navigation skin</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
